@@ -6,11 +6,11 @@ getgenv().ExecutedAlready = true;
 
 local Id = game.GameId;
 
-if Id == 15558033314 then
+if Id == 15558033314 then -- hoop nation
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CSU13/HoopNation/refs/heads/main/BeltsForBullets"))()
 end
   
-elseif Id == 14904820737 then 
+elseif Id == 14904820737 then -- dead by roblox
 
   end
