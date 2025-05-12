@@ -1,0 +1,16 @@
+if ExecutedAlready then
+    return
+end
+
+getgenv().ExecutedAlready = true;
+
+local Id = game.GameId;
+
+if Id == 15558033314 then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CSU13/HoopNation/refs/heads/main/BeltsForBullets"))()
+end
+  
+elseif Id == 14904820737 then 
+
+  end
